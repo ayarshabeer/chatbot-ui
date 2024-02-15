@@ -21,7 +21,7 @@ export const Brand: FC<BrandProps> = ({ theme = "dark" }) => {
       </div>
 
       <div className="text-4xl font-bold tracking-wide">
-        inQuestAi Workspace
+        inQuestAI Workspace
       </div>
     </Link>
   )

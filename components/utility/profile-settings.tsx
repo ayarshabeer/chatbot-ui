@@ -715,7 +715,7 @@ export const ProfileSettings: FC<ProfileSettingsProps> = ({}) => {
             <WithTooltip
               display={
                 <div>
-                  Download inQuestAi Workspace 1.0 data as JSON. Import coming
+                  Download inQuestAI Workspace 1.0 data as JSON. Import coming
                   soon!
                 </div>
               }

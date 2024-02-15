@@ -161,7 +161,7 @@ export default function SetupPage() {
           <StepContainer
             stepDescription="Let's create your profile."
             stepNum={currentStep}
-            stepTitle="Welcome to inQuestAi Workspace"
+            stepTitle="Welcome to inQuestAI Workspace"
             onShouldProceed={handleShouldProceed}
             showNextButton={!!(username && usernameAvailable)}
             showBackButton={false}
